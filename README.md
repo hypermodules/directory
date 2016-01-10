@@ -30,6 +30,10 @@ A directory of hyper modules
 - [More](https://github.com/sindresorhus/awesome-nodejs#streams)
 - https://www.npmjs.com/package/jsonstream3
 
+## OO
+
+- [inherits](https://www.npmjs.com/package/inherits)
+
 ## Packaging 
 
 - https://github.com/mafintosh/prebuild
