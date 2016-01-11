@@ -37,3 +37,7 @@ A directory of hyper modules
 ## Packaging 
 
 - https://github.com/mafintosh/prebuild
+
+## Service Configuration
+
+- [config-chain](https://github.com/dominictarr/config-chain)
