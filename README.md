@@ -29,6 +29,8 @@ A directory of hyper modules
 - [maxogden/mississippi](https://github.com/maxogden/mississippi)
 - [More](https://github.com/sindresorhus/awesome-nodejs#streams)
 - https://www.npmjs.com/package/jsonstream3
+- https://github.com/substack/stream-combiner2
+- https://github.com/dominictarr/stream-combiner
 
 ## OO
 
